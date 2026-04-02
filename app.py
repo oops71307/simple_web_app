@@ -27,7 +27,7 @@ def home():
         </style>
     </head>
     <body>
-        <h1>🚀 Animated Flask App</h1>
+        <h1>🚀Hello From Your Python Web App</h1>
         <p>This animation is written inside app.py!</p>
     </body>
     </html>
